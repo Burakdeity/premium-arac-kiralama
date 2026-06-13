@@ -1,7 +1,7 @@
 import { img, ensureImage } from "./placeholders";
 
 /** Hero arka plan videosu (public/videos/hero.mp4) */
-export const HERO_VIDEO_URL = "/videos/hero.mp4";
+export const HERO_VIDEO_URL = "/hero.mp4";
 
 export const SAKARYA_SEO_DISTRICTS = [
   {
