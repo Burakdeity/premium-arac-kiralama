@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "title": "RK Rent A Car | Your Comfort, Our Journey",
+    "description": "Reliable and comfortable car rental with RK Rent A Car. Premium fleet, airport delivery, 24/7 support.",
+    "keywords": "rk rent a car, car rental, premium car rental, airport car rental, istanbul car rental"
+  },
+  "nav": {
+    "home": "Home",
+    "vehicles": "Vehicles",
+    "reservation": "Reservation",
+    "blog": "Blog",
+    "about": "About Us",
+    "contact": "Contact",
+    "kvkk": "GDPR",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "search": "Search",
+    "bookNow": "Book Now",
+    "viewDetails": "View Details",
+    "viewAll": "View All",
+    "readMore": "Read More",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "perDay": "/ day",
+    "perWeek": "/ week",
+    "perMonth": "/ month",
+    "days": "days",
+    "from": "From",
+    "to": "To",
+    "total": "Total",
+    "currency": "₺",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "name": "Full Name",
+    "message": "Message",
+    "subject": "Subject",
+    "required": "Required field",
+    "optional": "Optional",
+    "yes": "Yes",
+    "no": "No",
+    "or": "or",
+    "and": "and",
+    "all": "All",
+    "filter": "Filter",
+    "sort": "Sort",
+    "clear": "Clear",
+    "apply": "Apply",
+    "results": "results",
+    "noResults": "No results found",
+    "whatsapp": "WhatsApp",
+    "whatsappFabMessage": "Hello, I'd like to rent a car through RK Rent A Car.",
+    "callUs": "Call Us"
+  },
+  "socialProof": {
+    "rating": "4.9 Google rating · 68 reviews",
+    "insured": "Fully insured fleet",
+    "customers": "850+ satisfied customers"
+  },
+  "hero": {
+    "title": "Your Comfort, Our Journey",
+    "subtitle": "Trusted fleet in Sakarya and SAW with transparent pricing and 24/7 support.",
+    "searchLabel": "Quick vehicle search",
+    "location": "Pickup Location",
+    "pickupDate": "Pickup Date",
+    "returnDate": "Return Date",
+    "searchButton": "Search Vehicles",
+    "stats": {
+      "vehicles": "Vehicles",
+      "locations": "Locations",
+      "customers": "Happy Customers",
+      "years": "Years Experience"
+    }
+  },
+  "featured": {
+    "eyebrow": "Fleet",
+    "title": "Featured Vehicles",
+    "subtitle": "Choose from our well-maintained, insured and current-model vehicles"
+  },
+  "whyUs": {
+    "eyebrow": "Our advantages",
+    "title": "Why RK Rent A Car?",
+    "subtitle": "Reliable rentals with local expertise and corporate service standards",
+    "features": {
+      "premium": {
+        "title": "Premium Fleet",
+        "description": "Mercedes, BMW, Audi and more. All our vehicles are latest models and well-maintained."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Uninterrupted customer support throughout your journey. Instant help in emergencies."
+      },
+      "airport": {
+        "title": "Airport Delivery",
+        "description": "24/7 vehicle delivery and return service at all major airports."
+      },
+      "insurance": {
+        "title": "Full Insurance",
+        "description": "Comprehensive insurance included with all vehicles. Additional coverage options."
+      },
+      "flexible": {
+        "title": "Flexible Rental",
+        "description": "Daily, weekly or monthly rental. Free cancellation and modification."
+      },
+      "price": {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees. The price you see is the price you pay."
+      }
+    }
+  },
+  "campaigns": {
+    "eyebrow": "Offers",
+    "title": "Campaigns & Offers",
+    "subtitle": "SAW pickup, weekly rentals, and Sakarya-only discounts",
+    "validUntil": "Valid until",
+    "useCode": "Code",
+    "cta": "Book Now"
+  },
+  "recommender": {
+    "eyebrow": "Vehicle selection",
+    "title": "Find the Right Vehicle",
+    "subtitle": "Set a few criteria and we'll list the best matches from our fleet.",
+    "submit": "Show recommendations",
+    "resultsTitle": "Recommended vehicles",
+    "perDay": "/ day",
+    "questions": {
+      "purpose": {
+        "label": "Purpose of travel?",
+        "options": [
+          { "value": "business", "label": "Business" },
+          { "value": "holiday", "label": "Holiday" },
+          { "value": "family", "label": "Family" },
+          { "value": "special", "label": "Wedding / Special" }
+        ]
+      },
+      "budget": {
+        "label": "Daily budget range?",
+        "options": [
+          { "value": "low", "label": "Under ₺1,500" },
+          { "value": "mid", "label": "₺1,500 – 3,000" },
+          { "value": "high", "label": "Over ₺3,000" },
+          { "value": "any", "label": "No preference" }
+        ]
+      },
+      "passengers": {
+        "label": "Number of passengers?",
+        "options": [
+          { "value": "two", "label": "1–2 people" },
+          { "value": "four", "label": "3–4 people" },
+          { "value": "five", "label": "5–7 people" },
+          { "value": "seven", "label": "7+ people" }
+        ]
+      }
+    }
+  },
+  "midPageCta": {
+    "badge": "Reservation",
+    "title": "Start your journey today",
+    "subtitle": "Online booking, transparent pricing, and Sakarya-based 24/7 customer support.",
+    "whatsappMessage": "Hello, I'd like to rent a car through RK Rent A Car."
+  },
+  "reviews": {
+    "eyebrow": "Testimonials",
+    "title": "Customer Reviews",
+    "subtitle": "Real experiences from customers in Sakarya and the region"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to everything you're curious about"
+  },
+  "blog": {
+    "title": "Blog & News",
+    "subtitle": "Travel tips and industry news",
+    "readTime": "min read",
+    "publishedAt": "Published",
+    "author": "Author",
+    "category": "Category",
+    "relatedPosts": "Related Posts",
+    "sharePost": "Share"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Get in Touch",
+    "subtitle": "Our team is here for reservations, quotes, and special requests",
+    "form": {
+      "title": "Send a Message",
+      "success": "Your message has been sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "hours": "Working Hours"
+    }
+  },
+  "vehicles": {
+    "title": "Our Fleet",
+    "subtitle": "Choose the premium vehicle that suits your needs",
+    "reviewCountLabel": "reviews",
+    "filters": {
+      "category": "Category",
+      "transmission": "Transmission",
+      "fuel": "Fuel",
+      "priceRange": "Price Range",
+      "seats": "Seats",
+      "sortBy": "Sort By",
+      "automatic": "Automatic",
+      "manual": "Manual"
+    },
+    "sort": {
+      "price_asc": "Price (Low to High)",
+      "price_desc": "Price (High to Low)",
+      "rating": "Highest Rating",
+      "newest": "Newest"
+    },
+    "specs": {
+      "transmission": "Transmission",
+      "fuel": "Fuel",
+      "seats": "Seats",
+      "doors": "Doors",
+      "luggage": "Luggage",
+      "year": "Model Year",
+      "features": "Features"
+    },
+    "availability": "Availability",
+    "similar": "Similar Vehicles",
+    "priceTable": {
+      "title": "Price Table",
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "monthly": "Monthly"
+    },
+    "notFound": "Vehicle not found"
+  },
+  "categories": {
+    "economy": "Economy",
+    "compact": "Compact",
+    "sedan": "Sedan",
+    "suv": "SUV",
+    "luxury": "Luxury",
+    "van": "Van",
+    "premium": "Premium"
+  },
+  "fuel": {
+    "petrol": "Petrol",
+    "diesel": "Diesel",
+    "hybrid": "Hybrid",
+    "electric": "Electric"
+  },
+  "reservation": {
+    "title": "Reservation Request",
+    "subtitle": "Fill in the form and our team will call you to complete your booking. No online payment.",
+    "steps": {
+      "vehicle": "Vehicle Selection",
+      "details": "Your Details",
+      "extras": "Extra Services",
+      "summary": "Summary"
+    },
+    "phoneFlow": {
+      "title": "Book by Phone",
+      "description": "After you submit the form, our team will call you shortly to confirm the details. You can also call us right now.",
+      "callNow": "Call Now",
+      "notice": "No online payment. Your booking is confirmed by phone.",
+      "whatsappMessage": "Hello, I'd like to make a car rental reservation."
+    },
+    "form": {
+      "pickupLocation": "Pickup Location",
+      "returnLocation": "Return Location",
+      "pickupDate": "Pickup Date",
+      "returnDate": "Return Date",
+      "customerName": "Full Name",
+      "customerEmail": "Email",
+      "customerPhone": "Phone",
+      "customerIdNumber": "ID Number",
+      "driverLicense": "License Number",
+      "notes": "Notes",
+      "sameLocation": "Return to same location"
+    },
+    "extras": {
+      "title": "Extra Services",
+      "subtitle": "Make your journey more comfortable"
+    },
+    "summary": {
+      "title": "Estimated Price",
+      "dailyRate": "Daily Rate",
+      "days": "Number of Days",
+      "subtotal": "Subtotal",
+      "extras": "Extra Services",
+      "discount": "Discount",
+      "tax": "VAT",
+      "total": "Estimated Total",
+      "estimateNote": "Final price is confirmed during your phone call."
+    },
+    "confirm": {
+      "title": "Request Received!",
+      "subtitle": "Our team will call you shortly to confirm your reservation.",
+      "number": "Request No",
+      "details": "Request Details",
+      "nextStep": "Prefer not to wait? Call us now.",
+      "print": "Print",
+      "pdf": "Download PDF",
+      "home": "Back to Home"
+    },
+    "submit": "Send Request",
+    "processing": "Sending..."
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "RK Rent A Car — your local car rental in Sakarya, Adapazarı. Reliable, personal service.",
+    "stats": {
+      "vehicles": "Vehicles",
+      "locations": "Pickup Points",
+      "experience": "Years Experience",
+      "support": "Support"
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "RK Rent A Car is a local rental business operating from our shop on Karakamış Street in Adapazarı, Sakarya. Unlike large chains, we know our customers by name, choose the right car together, and handle pickup and return transparently. Our goal is to offer a trustworthy, accessible and friendly rental experience across Sakarya and the surrounding region."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To provide safe, comfortable and hassle-free journeys with clean, well-maintained and insured vehicles in Sakarya and at Sabiha Gökçen Airport. We take reservations by phone or WhatsApp and finalize everything face to face."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To become the go-to car rental brand in Sakarya and the Marmara region — a symbol of local trust and quality service."
+    },
+    "highlights": {
+      "title": "Why RK Rent A Car?",
+      "shop": {
+        "title": "Adapazarı Shop",
+        "description": "Visit our office in Tekeler district, see the fleet in person and meet our team."
+      },
+      "airport": {
+        "title": "SAW Airport Delivery",
+        "description": "Your car ready at the door on arrival; easy return when you fly back."
+      },
+      "fleet": {
+        "title": "12-Vehicle Fleet",
+        "description": "From economy to SUV — insured vehicles with regular maintenance and checks."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Phone and WhatsApp always available; we're here if you need help on the road."
+      }
+    },
+    "shop": {
+      "title": "Our Shop & Contact",
+      "description": "Visit RK Rent A Car in Adapazarı. Walk-ins welcome — inspect our fleet on site.",
+      "directions": "Get directions"
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": "Quality",
+      "qualityDesc": "Every vehicle is cleaned and technically checked before handover.",
+      "trust": "Trust",
+      "trustDesc": "Transparent pricing, written contracts and clear deposit refunds.",
+      "local": "Local Roots",
+      "localDesc": "A Sakarya-based business focused on solutions, not bureaucracy.",
+      "service": "Service",
+      "serviceDesc": "The same team before and after rental — continuous communication."
+    },
+    "cta": {
+      "title": "Rent a car in Sakarya — call us",
+      "subtitle": "No online payment — book quickly by phone or WhatsApp and our team will confirm with you.",
+      "whatsappMessage": "Hello, I'd like information about RK Rent A Car and to rent a vehicle."
+    }
+  },
+  "kvkk": {
+    "title": "GDPR Information Notice",
+    "subtitle": "Information under the Personal Data Protection Law",
+    "lastUpdated": "Last Updated"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Protecting your personal data is important to us",
+    "lastUpdated": "Last Updated"
+  },
+  "footer": {
+    "description": "RK Rent A Car — your comfort is our journey. Premium fleet and reliable service across Turkey.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "contact": "Contact",
+    "newsletter": {
+      "title": "Newsletter",
+      "subtitle": "Stay informed about campaigns and offers",
+      "placeholder": "Your email address",
+      "button": "Subscribe"
+    },
+    "copyright": "All rights reserved.",
+    "madeIn": "Made in Turkey"
+  }
+}

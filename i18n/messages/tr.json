@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "title": "RK Rent A Car | Konforunuz, Bizim Yolculuğumuz",
+    "description": "RK Rent A Car ile güvenilir ve konforlu araç kiralama. Premium filo, havalimanı teslimat, 7/24 destek.",
+    "keywords": "rk rent a car, araç kiralama, rent a car, premium araç kiralama, havalimanı araç kiralama"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "vehicles": "Araçlar",
+    "reservation": "Rezervasyon",
+    "blog": "Blog",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "kvkk": "KVKK",
+    "privacy": "Gizlilik Politikası"
+  },
+  "common": {
+    "search": "Ara",
+    "bookNow": "Hemen Rezervasyon Yap",
+    "viewDetails": "Detayları Gör",
+    "viewAll": "Tümünü Gör",
+    "readMore": "Devamını Oku",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar Dene",
+    "back": "Geri",
+    "next": "İleri",
+    "submit": "Gönder",
+    "cancel": "İptal",
+    "close": "Kapat",
+    "save": "Kaydet",
+    "perDay": "/ gün",
+    "perWeek": "/ hafta",
+    "perMonth": "/ ay",
+    "days": "gün",
+    "from": "Başlangıç",
+    "to": "Bitiş",
+    "total": "Toplam",
+    "currency": "₺",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "address": "Adres",
+    "name": "Ad Soyad",
+    "message": "Mesaj",
+    "subject": "Konu",
+    "required": "Zorunlu alan",
+    "optional": "Opsiyonel",
+    "yes": "Evet",
+    "no": "Hayır",
+    "or": "veya",
+    "and": "ve",
+    "all": "Tümü",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "clear": "Temizle",
+    "apply": "Uygula",
+    "results": "sonuç",
+    "noResults": "Sonuç bulunamadı",
+    "whatsapp": "WhatsApp",
+    "whatsappFabMessage": "Merhaba, RK Rent A Car üzerinden araç kiralamak istiyorum.",
+    "callUs": "Bizi Arayın"
+  },
+  "socialProof": {
+    "rating": "4.9 Google puanı · 68 değerlendirme",
+    "insured": "Tam kasko dahil filo",
+    "customers": "850+ memnun müşteri"
+  },
+  "hero": {
+    "title": "Konforunuz, Bizim Yolculuğumuz",
+    "subtitle": "Sakarya ve SAW lokasyonlarında güvenilir filo, şeffaf fiyatlandırma ve 7/24 destek.",
+    "searchLabel": "Hızlı araç arama",
+    "location": "Alış Lokasyonu",
+    "pickupDate": "Alış Tarihi",
+    "returnDate": "İade Tarihi",
+    "searchButton": "Araç Ara",
+    "stats": {
+      "vehicles": "Araç",
+      "locations": "Lokasyon",
+      "customers": "Mutlu Müşteri",
+      "years": "Yıllık Deneyim"
+    }
+  },
+  "featured": {
+    "eyebrow": "Filo",
+    "title": "Öne Çıkan Araçlar",
+    "subtitle": "Bakımlı, sigortalı ve güncel model araçlarımızdan seçim yapın"
+  },
+  "whyUs": {
+    "eyebrow": "Avantajlarımız",
+    "title": "Neden RK Rent A Car?",
+    "subtitle": "Yerel uzmanlık ve kurumsal hizmet kalitesiyle güvenilir kiralama deneyimi",
+    "features": {
+      "premium": {
+        "title": "Premium Filo",
+        "description": "Mercedes, BMW, Audi ve daha fazlası. Tüm araçlarımız en son model ve bakımlı."
+      },
+      "support": {
+        "title": "7/24 Destek",
+        "description": "Yolculuğunuz boyunca kesintisiz müşteri desteği. Acil durumlarda anında yardım."
+      },
+      "airport": {
+        "title": "Havalimanı Teslimat",
+        "description": "Tüm büyük havalimanlarında 7/24 araç teslim ve iade hizmeti."
+      },
+      "insurance": {
+        "title": "Tam Sigorta",
+        "description": "Tüm araçlarımızda kapsamlı kasko sigortası dahil. Ekstra güvence seçenekleri."
+      },
+      "flexible": {
+        "title": "Esnek Kiralama",
+        "description": "Günlük, haftalık veya aylık kiralama. Ücretsiz iptal ve değişiklik imkanı."
+      },
+      "price": {
+        "title": "Şeffaf Fiyatlandırma",
+        "description": "Gizli ücret yok. Gördüğünüz fiyat, ödeyeceğiniz fiyat."
+      }
+    }
+  },
+  "campaigns": {
+    "eyebrow": "Fırsatlar",
+    "title": "Kampanyalar & Fırsatlar",
+    "subtitle": "SAW teslim, haftalık kiralama ve Sakarya'ya özel indirimler",
+    "validUntil": "Geçerlilik",
+    "useCode": "Kod",
+    "cta": "Rezervasyon Yap"
+  },
+  "recommender": {
+    "eyebrow": "Araç seçimi",
+    "title": "Size Uygun Aracı Bulun",
+    "subtitle": "Birkaç kriter belirleyin, filomuzdan size en uygun seçenekleri listeleyelim.",
+    "submit": "Önerileri Göster",
+    "resultsTitle": "Önerilen araçlar",
+    "perDay": "/ gün",
+    "questions": {
+      "purpose": {
+        "label": "Seyahat amacınız?",
+        "options": [
+          { "value": "business", "label": "İş" },
+          { "value": "holiday", "label": "Tatil" },
+          { "value": "family", "label": "Aile" },
+          { "value": "special", "label": "Düğün / Özel" }
+        ]
+      },
+      "budget": {
+        "label": "Günlük bütçe aralığı?",
+        "options": [
+          { "value": "low", "label": "1.500₺ altı" },
+          { "value": "mid", "label": "1.500 – 3.000₺" },
+          { "value": "high", "label": "3.000₺ üzeri" },
+          { "value": "any", "label": "Fark etmez" }
+        ]
+      },
+      "passengers": {
+        "label": "Yolcu sayısı?",
+        "options": [
+          { "value": "two", "label": "1–2 kişi" },
+          { "value": "four", "label": "3–4 kişi" },
+          { "value": "five", "label": "5–7 kişi" },
+          { "value": "seven", "label": "7+ kişi" }
+        ]
+      }
+    }
+  },
+  "midPageCta": {
+    "badge": "Rezervasyon",
+    "title": "Yolculuğunuza hemen başlayın",
+    "subtitle": "Online rezervasyon, şeffaf fiyat ve Sakarya merkezli 7/24 müşteri desteği.",
+    "whatsappMessage": "Merhaba, RK Rent A Car üzerinden araç kiralamak istiyorum."
+  },
+  "reviews": {
+    "eyebrow": "Referanslar",
+    "title": "Müşteri Yorumları",
+    "subtitle": "Sakarya ve çevresinden gerçek müşteri deneyimleri"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Merak ettiğiniz her şeyin cevabı burada"
+  },
+  "blog": {
+    "title": "Blog & Haberler",
+    "subtitle": "Seyahat ipuçları ve sektör haberleri",
+    "readTime": "dk okuma",
+    "publishedAt": "Yayınlanma",
+    "author": "Yazar",
+    "category": "Kategori",
+    "relatedPosts": "İlgili Yazılar",
+    "sharePost": "Paylaş"
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "Bize Ulaşın",
+    "subtitle": "Rezervasyon, fiyat teklifi veya özel talepleriniz için ekibimiz yanınızda",
+    "form": {
+      "title": "Mesaj Gönderin",
+      "success": "Mesajınız başarıyla gönderildi!",
+      "error": "Mesaj gönderilemedi. Lütfen tekrar deneyin."
+    },
+    "info": {
+      "title": "İletişim Bilgileri",
+      "hours": "Çalışma Saatleri"
+    }
+  },
+  "vehicles": {
+    "title": "Araç Filomuz",
+    "subtitle": "İhtiyacınıza uygun premium aracı seçin",
+    "reviewCountLabel": "yorum",
+    "filters": {
+      "category": "Kategori",
+      "transmission": "Vites",
+      "fuel": "Yakıt",
+      "priceRange": "Fiyat Aralığı",
+      "seats": "Koltuk Sayısı",
+      "sortBy": "Sıralama",
+      "automatic": "Otomatik",
+      "manual": "Manuel"
+    },
+    "sort": {
+      "price_asc": "Fiyat (Düşükten Yükseğe)",
+      "price_desc": "Fiyat (Yüksekten Düşüğe)",
+      "rating": "En Yüksek Puan",
+      "newest": "En Yeni"
+    },
+    "specs": {
+      "transmission": "Vites",
+      "fuel": "Yakıt",
+      "seats": "Koltuk",
+      "doors": "Kapı",
+      "luggage": "Bagaj",
+      "year": "Model Yılı",
+      "features": "Özellikler"
+    },
+    "availability": "Müsaitlik",
+    "similar": "Benzer Araçlar",
+    "priceTable": {
+      "title": "Fiyat Tablosu",
+      "daily": "Günlük",
+      "weekly": "Haftalık",
+      "monthly": "Aylık"
+    },
+    "notFound": "Araç bulunamadı"
+  },
+  "categories": {
+    "economy": "Ekonomi",
+    "compact": "Kompakt",
+    "sedan": "Sedan",
+    "suv": "SUV",
+    "luxury": "Lüks",
+    "van": "Minibüs",
+    "premium": "Premium"
+  },
+  "fuel": {
+    "petrol": "Benzin",
+    "diesel": "Dizel",
+    "hybrid": "Hibrit",
+    "electric": "Elektrik"
+  },
+  "reservation": {
+    "title": "Rezervasyon Talebi",
+    "subtitle": "Formu doldurun, ekibimiz sizi telefonla arayarak rezervasyonunuzu tamamlasın. Online ödeme yoktur.",
+    "steps": {
+      "vehicle": "Araç Seçimi",
+      "details": "Bilgileriniz",
+      "extras": "Ek Hizmetler",
+      "summary": "Özet"
+    },
+    "phoneFlow": {
+      "title": "Telefonla Hızlı Rezervasyon",
+      "description": "Formu gönderdikten sonra ekibimiz en kısa sürede sizi arayarak detayları netleştirir. Dilerseniz hemen de arayabilirsiniz.",
+      "callNow": "Hemen Ara",
+      "notice": "Ödeme online alınmaz. Rezervasyon telefon görüşmesi ile onaylanır.",
+      "whatsappMessage": "Merhaba, araç kiralama rezervasyonu yapmak istiyorum."
+    },
+    "form": {
+      "pickupLocation": "Alış Lokasyonu",
+      "returnLocation": "İade Lokasyonu",
+      "pickupDate": "Alış Tarihi",
+      "returnDate": "İade Tarihi",
+      "customerName": "Ad Soyad",
+      "customerEmail": "E-posta",
+      "customerPhone": "Telefon",
+      "customerIdNumber": "TC Kimlik No",
+      "driverLicense": "Ehliyet No",
+      "notes": "Notlar",
+      "sameLocation": "Aynı lokasyona iade"
+    },
+    "extras": {
+      "title": "Ek Hizmetler",
+      "subtitle": "Yolculuğunuzu daha konforlu hale getirin"
+    },
+    "summary": {
+      "title": "Tahmini Fiyat",
+      "dailyRate": "Günlük Ücret",
+      "days": "Gün Sayısı",
+      "subtotal": "Ara Toplam",
+      "extras": "Ek Hizmetler",
+      "discount": "İndirim",
+      "tax": "KDV",
+      "total": "Tahmini Toplam",
+      "estimateNote": "Kesin fiyat telefon görüşmesinde netleştirilir."
+    },
+    "confirm": {
+      "title": "Talebiniz Alındı!",
+      "subtitle": "Ekibimiz en kısa sürede sizi arayarak rezervasyonunuzu onaylayacak.",
+      "number": "Talep No",
+      "details": "Talep Detayları",
+      "nextStep": "Hemen aramak isterseniz bizi şimdi arayabilirsiniz.",
+      "print": "Yazdır",
+      "pdf": "PDF İndir",
+      "home": "Ana Sayfaya Dön"
+    },
+    "submit": "Talep Gönder",
+    "processing": "Gönderiliyor..."
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Sakarya'nın yerel araç kiralama markası RK Rent A Car — Adapazarı merkezli, güvenilir ve samimi hizmet.",
+    "stats": {
+      "vehicles": "Araç",
+      "locations": "Teslimat Noktası",
+      "experience": "Yıllık Deneyim",
+      "support": "Destek"
+    },
+    "story": {
+      "title": "Hikayemiz",
+      "content": "RK Rent A Car, Sakarya Adapazarı'nda Karakamış Caddesi üzerindeki dükkanımızdan hizmet veren yerel bir araç kiralama işletmesidir. Büyük zincirlerin soğuk süreçlerinin aksine, her müşteriyi ismiyle tanıyor; aracı birlikte seçiyor, teslim ve iadeyi şeffaf şekilde yönetiyoruz. Amacımız Sakarya ve çevresindeki misafirlerimize güvenilir, ulaşılabilir ve samimi bir kiralama deneyimi sunmak."
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "content": "Sakarya'da ve Sabiha Gökçen Havalimanı'nda; temiz, bakımlı ve sigortalı araçlarımızla her müşterimize güvenli, konforlu ve sorunsuz bir yolculuk sağlamak. Rezervasyonunuzu telefon veya WhatsApp ile alıp, işlemi yüz yüze netleştirmek."
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "content": "Sakarya ve Marmara bölgesinde, yerel güvenin ve kaliteli hizmetin simgesi haline gelen; müşterilerinin her zaman ilk aradığı araç kiralama markası olmak."
+    },
+    "highlights": {
+      "title": "Neden RK Rent A Car?",
+      "shop": {
+        "title": "Adapazarı Merkez Dükkan",
+        "description": "Tekeler Mahallesi'ndeki ofisimizden araçlarımızı görebilir, ekibimizle yüz yüze görüşebilirsiniz."
+      },
+      "airport": {
+        "title": "SAW Havalimanı Teslimat",
+        "description": "Sabiha Gökçen'e iniş saatinize göre aracınız kapıda hazır; dönüşte aynı kolaylıkla teslim alıyoruz."
+      },
+      "fleet": {
+        "title": "12 Araçlık Özenli Filo",
+        "description": "Ekonomiden SUV'ye kadar bakımlı, sigortalı ve düzenli kontrolden geçen araç seçenekleri."
+      },
+      "support": {
+        "title": "7/24 Ulaşılabilir Destek",
+        "description": "Gece gündüz telefon ve WhatsApp hattımız açık; yolda kaldığınızda yanınızdayız."
+      }
+    },
+    "shop": {
+      "title": "Dükkanımız & İletişim",
+      "description": "RK Rent A Car işletmemize Adapazarı'nda bekleriz. Randevusuz da uğrayabilir, filomuzu yerinde inceleyebilirsiniz.",
+      "directions": "Yol tarifi al"
+    },
+    "values": {
+      "title": "Değerlerimiz",
+      "quality": "Kalite",
+      "qualityDesc": "Her araç teslim öncesi iç-dış temizlik ve teknik kontrolden geçer.",
+      "trust": "Güven",
+      "trustDesc": "Şeffaf fiyat, yazılı sözleşme ve depozito iadesinde net süreç.",
+      "local": "Yerellik",
+      "localDesc": "Sakarya'da yerleşik işletme; bürokrasi değil, çözüm odaklı yaklaşım.",
+      "service": "Hizmet",
+      "serviceDesc": "Kiralama öncesi ve sonrası aynı ekiple, kesintisiz iletişim."
+    },
+    "cta": {
+      "title": "Sakarya'da araç kiralamak için bizi arayın",
+      "subtitle": "Online ödeme yok — telefon veya WhatsApp ile hızlıca rezervasyon yapın, ekibimiz sizi arasın.",
+      "whatsappMessage": "Merhaba, RK Rent A Car hakkında bilgi almak ve araç kiralamak istiyorum."
+    }
+  },
+  "kvkk": {
+    "title": "KVKK Aydınlatma Metni",
+    "subtitle": "Kişisel Verilerin Korunması Kanunu kapsamında bilgilendirme",
+    "lastUpdated": "Son Güncelleme"
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "subtitle": "Kişisel verilerinizin korunması bizim için önemlidir",
+    "lastUpdated": "Son Güncelleme"
+  },
+  "footer": {
+    "description": "RK Rent A Car — konforunuz bizim yolculuğumuz. Premium filo ve güvenilir hizmet anlayışıyla yanınızdayız.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "legal": "Yasal",
+    "contact": "İletişim",
+    "newsletter": {
+      "title": "Bülten",
+      "subtitle": "Kampanya ve fırsatlardan haberdar olun",
+      "placeholder": "E-posta adresiniz",
+      "button": "Abone Ol"
+    },
+    "copyright": "Tüm hakları saklıdır.",
+    "madeIn": "Türkiye'de yapıldı"
+  }
+}
